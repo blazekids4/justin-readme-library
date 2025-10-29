@@ -584,12 +584,6 @@ Potential improvements for these scripts:
 
 ---
 
-## 📄 License
-
-These scripts are part of the RELX Suppliers AI project. Please refer to the main repository LICENSE file.
-
----
-
 ## 👥 Contributing
 
 When contributing to these scripts:

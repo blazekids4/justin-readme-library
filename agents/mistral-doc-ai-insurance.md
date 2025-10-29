@@ -200,7 +200,7 @@ All configuration is managed through environment variables in a `.env` file:
 ```env
 # Required: Azure API Configuration
 AZURE_API_KEY="your-mistral-api-key"
-PROJECT_ENDPOINT="https://foundry-eastus2-niq.services.ai.azure.com/..."
+PROJECT_ENDPOINT="."
 
 # Required: Azure Storage Configuration
 STORAGE_ACCOUNT_NAME="your-storage-account"
@@ -351,7 +351,7 @@ split_run_20251016_105540/
    ```env
    # Required: Azure API Configuration
    AZURE_API_KEY="your-mistral-api-key-from-azure-ai-foundry"
-   PROJECT_ENDPOINT="https://foundry-eastus2-niq.services.ai.azure.com/..."
+   PROJECT_ENDPOINT=""
 
    # Required: Azure Storage Configuration
    STORAGE_ACCOUNT_NAME="yourstorageaccount"
