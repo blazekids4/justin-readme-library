@@ -214,7 +214,7 @@ Use Case: Storage optimization and migration planning
 - `ConcurrentBuilder` for parallel orchestration
 - `ChatAgent` with custom instructions and tools
 
-**AI Models**: Azure OpenAI (GPT-4 / GPT-4-turbo)
+**AI Models**: Azure OpenAI (GPT-4.1)
 
 - Structured reasoning for data analysis
 - Natural language understanding for queries
@@ -262,7 +262,7 @@ Create `.env` file in project root:
 
 ```bash
 AZURE_AI_PROJECT_ENDPOINT=https://your-project.openai.azure.com
-AZURE_AI_MODEL_DEPLOYMENT_NAME=gpt-4
+AZURE_AI_MODEL_DEPLOYMENT_NAME=gpt-4.1
 ```
 
 ### 5. Authenticate with Azure
@@ -406,7 +406,7 @@ Update `.env`:
 
 ```bash
 # Use different model
-AZURE_AI_MODEL_DEPLOYMENT_NAME=gpt-4-turbo
+AZURE_AI_MODEL_DEPLOYMENT_NAME=gpt-4.1
 
 # Adjust timeout
 AGENT_TIMEOUT_SECONDS=120
