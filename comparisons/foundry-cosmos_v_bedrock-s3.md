@@ -1,5 +1,7 @@
 # Azure AI Foundry + Cosmos DB vs. AWS Bedrock + S3
 
+(DISCLAIMER: The following comparison is based on several assumptions and pricing estimates are subject to change.)
+
 ## Conversation Thread Persistence Comparison
 
 This document compares two approaches for persisting conversational AI threads with embedded JSON data payloads.
