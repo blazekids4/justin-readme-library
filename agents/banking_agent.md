@@ -12,9 +12,6 @@ The solution demonstrates how traditional banking interactions can be transforme
 
 ---
 
-## Demo
-<video controls src="bofa-ai-app-demo.mp4" title="Title"></video>
-
 ## Value to Consumer Bankers
 
 ### **🎯 Immediate Impact**
