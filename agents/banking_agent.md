@@ -38,8 +38,10 @@ The solution demonstrates how traditional banking interactions can be transforme
 
 ### **Backend Stack**
 
-- **Microsoft Semantic Kernel:** Multi-agent orchestration framework for complex banking conversations
-- **Azure OpenAI (GPT-4):** Advanced language model for natural language understanding and generation
+- **Microsoft Semantic Kernel (Agent Framework):** Multi-agent orchestration framework for complex banking conversations
+- **Azure OpenAI (GPT-5):** Advanced language model for natural language understanding and generation
+- **Azure AI Search:** Fast retrieval of banking documents and FAQs
+- **Azure Functions:** Serverless compute for scalable API endpoints
 - **Multi-turn Conversation Engine:** Maintains context across complex banking workflows
 
 ### **Frontend Stack**
